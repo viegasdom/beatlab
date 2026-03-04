@@ -1,5 +1,5 @@
 resource "lab" "main" {
-  title       = "beat lab 123 from git local 123 local giga omega ultra lol"
+  title       = "beat lab 123 from git local 123 local giga omega ultra lol omega giga ultra"
   description = "Outline the lab's learning objectives, topics, and prerequisites."
 
   layout = resource.layout.single_panel
